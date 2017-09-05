@@ -10,6 +10,7 @@
     "div",
     "canvas"
   ],
+  "version": "1.0.0",
   "license": "MIT",
   "homepage": "https://github.com/strawhatboy/bower-canvas-highlighter",
   "ignore": [
