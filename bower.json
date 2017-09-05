@@ -1,0 +1,22 @@
+{
+  "name": "canvas-highlighter",
+  "authors": [
+    "Andy Cui <ccui@hpe.com>"
+  ],
+  "description": "can highlight customized area on any element",
+  "main": "canvas-highlighter.min.js",
+  "keywords": [
+    "highlight",
+    "div",
+    "canvas"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/strawhatboy/bower-canvas-highlighter",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
