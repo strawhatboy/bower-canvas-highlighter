@@ -4,7 +4,7 @@
     "Andy Cui <ccui@hpe.com>"
   ],
   "description": "can highlight customized area on any element",
-  "main": "canvas-highlighter.min.js",
+  "main": "canvas-highlighter.js",
   "keywords": [
     "highlight",
     "div",
